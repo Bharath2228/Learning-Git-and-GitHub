@@ -1,3 +1,3 @@
-# Learning-Git---GitHub
+# Learning-Git-and-GitHub
 
 Some Description
